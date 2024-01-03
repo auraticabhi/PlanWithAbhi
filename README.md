@@ -1,0 +1,1 @@
+Welcome to a dynamic and intuitive trip planning platform built using React! This platform is designed to simplify and enhance your travel experience by empowering users to curate their dream destinations effortlessly.
